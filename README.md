@@ -60,3 +60,10 @@ We should use a two-sample T-test since it is the most appropriate test to use w
 
 **The data:**
 We will need the highway fuel effeciencies data for MechaCar vehicles as well as their main competitor Megacar. We’ll want to ensure we group by car types (SUV, sedan, hatchback, etc) to remove any bias that is associated with the type of car and the impact on highway fuel efficiency. 
+
+---
+
+**Contact:**
+
+Email: charlotte.rotner@gmail.com  
+Linkedin: https://www.linkedin.com/in/charlotte-rotner/
